@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhanak96&label=Profile%20views&color=0e75b6&style=flat" alt="mhanak96" /> </p>
 
-      - 📫 How to reach me: **mateuszhanak@protonmail.com**
+- 📫 How to reach me: **mateuszhanak@protonmail.com**
 
-      - 👨‍💼 My Linkedin: https://pl.linkedin.com/in/mateuszhanak
+- 👨‍💼 My Linkedin: https://pl.linkedin.com/in/mateuszhanak
 
-      - 🖥 My Website: https://hanak.co 
+- 🖥 My Website: https://hanak.co 
 
-      - 🌱 I’m currently learning **CSS and MERN Stack**
+- 🌱 I’m currently learning **CSS and MERN Stack**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
