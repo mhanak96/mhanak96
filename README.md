@@ -1,6 +1,5 @@
 <h1 align="center">Hello there! 👋, I'm Mateusz</h1>
 <h3 align="center">An aspiring full-stack web developer from Poland</h3>
-<img align="right" alt="cat coding" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhanak96&label=Profile%20views&color=0e75b6&style=flat" alt="mhanak96" /> </p>
 
