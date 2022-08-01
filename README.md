@@ -5,25 +5,26 @@
 
 <table border="0">
  <tr>
-    <td></td>
-    <td></td>
- </tr>
- <tr>
     <td>
-   
+     <p>
       - 📫 How to reach me: **mateuszhanak@protonmail.com**
 
       - 👨‍💼 My Linkedin: https://pl.linkedin.com/in/mateuszhanak
 
+  
+      </p>
+    </td>
+    <td> 
+      <p>
       - 🖥 My Website: https://hanak.co 
 
       - 🌱 I’m currently learning **CSS and MERN Stack**
-      
+     </p>
     </td>
-    <td> 
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhanak96&show_icons=true&locale=en" alt="mhanak96" /></p>           </td>
  </tr>
 </table>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhanak96&show_icons=true&locale=en" alt="mhanak96" /></p>  
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
