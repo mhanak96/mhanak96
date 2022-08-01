@@ -2,7 +2,7 @@
 <h3 align="center">I'm Mateusz, an aspiring full-stack web developer from Poland</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhanak96&label=Profile%20views&color=0e75b6&style=flat" alt="mhanak96" /> </p>
-<p align="right">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mhanak96&show_icons=true&locale=en" alt="mhanak96" /></p>
+
 - 📫 How to reach me: **mateuszhanak@protonmail.com**
 
 - 👨‍💼 My Linkedin: https://pl.linkedin.com/in/mateuszhanak
@@ -30,14 +30,3 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-  
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhanak96&show_icons=true&locale=en" alt="mhanak96" /></p>  
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhanak96&show_icons=true&locale=en&layout=compact" alt="mhanak96" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhanak96&" alt="mhanak96" /></p>
