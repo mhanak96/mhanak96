@@ -2,6 +2,7 @@
 <h3 align="center">I'm Mateusz, an aspiring full-stack web developer from Poland</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhanak96&label=Profile%20views&color=0e75b6&style=flat" alt="mhanak96" /> </p>
+
 - 📫 How to reach me: **mateuszhanak@protonmail.com**
 
 - 👨‍💼 My Linkedin: **https://pl.linkedin.com/in/mateuszhanak**
