@@ -2,7 +2,7 @@
 <h3 align="center">I'm Mateusz, an aspiring full-stack web developer from Poland</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhanak96&label=Profile%20views&color=0e75b6&style=flat" alt="mhanak96" /> </p>
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mhanak96&show_icons=true&locale=en" alt="mhanak96" /></p>  
+<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=mhanak96&show_icons=true&locale=en" alt="mhanak96" /></p>  
 - 📫 How to reach me: **mateuszhanak@protonmail.com**
 
 - 👨‍💼 My Linkedin: **https://pl.linkedin.com/in/mateuszhanak**
