@@ -9,7 +9,7 @@
 
 <ul>
   <li>🔒 By day: I help teams not accidentally do “oopsie” with user data.</li>
-  <li>🧪 <a href="https://www.youtube.com/shorts/FrWhfO1qiXo" target="_blank" rel="noreferrer">By night:</a> I build small projects and play with AI automations.</li>
+  <li>🧪 By night:</a> I build small projects and play with AI automations.</li>
   <li>🎯 I like: privacy, AI in practice, and systems that actually make sense.</li>
 </ul>
 
